@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.usg</groupId>
 	<artifactId>usg</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>usg</name>
-	<description>test project for usg</description>
+	<description>test project for usg company</description>
 
 	<properties>
 		<java.version>11</java.version>
